@@ -1,18 +1,16 @@
-# journal
+# Journal
 Journal program - uses Java GUI and directs user input to text file.
 
-
-Files:
+## Files:
 
 jou.java (main driver)
 
 Entry.java
 
+## Development Environment: 
+Eclipse Photon
 
-I developed this program in Eclipse Photon IDE.
-
-
-Requirements:
+## Requirements:
 
 Swing Designer
 
