@@ -1,5 +1,7 @@
 # Journal
-Journal program - uses Java GUI and directs user input to text file.
+Uses Java GUI
+
+Directs user input to text file
 
 ## Files:
 
