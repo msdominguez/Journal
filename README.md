@@ -10,7 +10,7 @@ jou.java (main driver)
 Entry.java
 
 ## Development Environment: 
-Eclipse Photon
+Eclipse Photon on Windows 10
 
 ## Requirements:
 
