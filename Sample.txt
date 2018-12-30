@@ -1,0 +1,5 @@
+time: 1:15 PM
+date: Sat, Dec 29, 2018
+title: My Title
+song: My Song - Artist
+entry: This is my entry.
