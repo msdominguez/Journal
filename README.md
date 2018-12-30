@@ -1,7 +1,7 @@
 # Journal
-Make a journal entry, including date, time, title, song, and entry
+Java GUI
 
-Uses Java GUI
+Make a journal entry, including date, time, title, song, and entry
 
 Directs user input to text file named with time and date
 
