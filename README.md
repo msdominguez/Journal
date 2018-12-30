@@ -1,13 +1,17 @@
 # Journal
+Make a journal entry, including date, time, title, song, and entry
+
 Uses Java GUI
 
-Directs user input to text file
+Directs user input to text file named with time and date
 
 ## Files:
 
 jou.java (main driver)
 
 Entry.java
+
+Journal.jar (You can just run this executable)
 
 ## Development Environment: 
 Eclipse Photon on Windows 10
