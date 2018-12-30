@@ -13,6 +13,12 @@ Entry.java
 
 Journal.jar (You can just run this executable)
 
+# Sample Files:
+
+2018-12-29 13-15.txt (Generated entry after running program)
+
+Sample.txt (Input values for sample file)
+
 ## Development Environment: 
 Eclipse Photon on Windows 10
 
