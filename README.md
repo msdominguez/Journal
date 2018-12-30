@@ -13,7 +13,7 @@ Entry.java
 
 Journal.jar (You can just run this executable)
 
-# Sample Files:
+### Sample Files:
 
 2018-12-29 13-15.txt (Generated entry after running program)
 
